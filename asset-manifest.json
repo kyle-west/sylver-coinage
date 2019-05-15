@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sylver-coinage/static/css/main.3729c1f6.chunk.css",
+    "main.js": "/sylver-coinage/static/js/main.de4e85f7.chunk.js",
+    "main.js.map": "/sylver-coinage/static/js/main.de4e85f7.chunk.js.map",
+    "runtime~main.js": "/sylver-coinage/static/js/runtime~main.319ea5c1.js",
+    "runtime~main.js.map": "/sylver-coinage/static/js/runtime~main.319ea5c1.js.map",
+    "static/js/2.ebae625f.chunk.js": "/sylver-coinage/static/js/2.ebae625f.chunk.js",
+    "static/js/2.ebae625f.chunk.js.map": "/sylver-coinage/static/js/2.ebae625f.chunk.js.map",
+    "index.html": "/sylver-coinage/index.html",
+    "precache-manifest.12daae5de61db905e6280c6a2911e921.js": "/sylver-coinage/precache-manifest.12daae5de61db905e6280c6a2911e921.js",
+    "service-worker.js": "/sylver-coinage/service-worker.js",
+    "static/css/main.3729c1f6.chunk.css.map": "/sylver-coinage/static/css/main.3729c1f6.chunk.css.map"
+  }
+}
