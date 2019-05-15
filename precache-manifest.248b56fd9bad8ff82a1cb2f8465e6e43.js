@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8748c39af69e49eb4b85bf4020b12182",
+    "revision": "582df1048ea9a8ee126e048c1635e231",
     "url": "/sylver-coinage/index.html"
   },
   {

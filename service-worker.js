@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sylver-coinage/precache-manifest.12daae5de61db905e6280c6a2911e921.js"
+  "/sylver-coinage/precache-manifest.248b56fd9bad8ff82a1cb2f8465e6e43.js"
 );
 
 self.addEventListener('message', (event) => {
