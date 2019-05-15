@@ -1,33 +1,33 @@
-.App {
+.title {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.game-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
 }
 
-.App-link {
-  color: #61dafb;
+.GameHistory {
+  flex: 0 0 300px;
+  display: inline-block;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.GameBoard {
+  margin-left: 15px;
+  display: inline-block;
+}
+
+.GameBoard button {
+  font-size: 14px;
+  font-family: 'Courier New', Courier, monospace;
+  width: 40px;
+  height: 40px;
+  font-weight: bold;
+}
+
+.GameBoard button:not(:disabled) {
+  background-color: lightgreen;
+}
+.GameBoard button:not(:disabled):first-child {
+  background-color: lightcoral;
 }
