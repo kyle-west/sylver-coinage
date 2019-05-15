@@ -42,6 +42,12 @@ function App() {
         <GameBoard possibleNumbers={possibleNumbers} makeMove={makeMove}/>
         <GameHistory moves={moves} />
       </div>
+
+      <small class="shadow-link">
+        <a target="_blank" href="https://github.com/kyle-west/sylver-coinage">
+          Created by @kyle-west on GitHub
+        </a>
+      </small>
     </div>
   );
 }

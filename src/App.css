@@ -31,3 +31,15 @@
 .GameBoard button:not(:disabled):first-child {
   background-color: lightcoral;
 }
+
+.shadow-link,
+.shadow-link * {
+  font-family: monospace;
+  color: #222;
+  margin: 5px;
+}
+
+.shadow-link:hover,
+.shadow-link *:hover {
+  color: blue;
+}

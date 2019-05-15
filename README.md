@@ -1,9 +1,7 @@
 # React JS version of the Sylver Coinage Combinatorics Game
 
-See the [Vanilla JS version](https://github.com/kyle-west/sylver-coinage-vanilla) for my original proof-of-concept.
-
+<a href="http://kyle-west.github.io/sylver-coinage"><h2>[Play The Game Here]</h2></a>
 See the game [description](https://en.wikipedia.org/wiki/Sylver_coinage). 
-
 
 This Vanilla Web Application is the effective _game board_ for this game. It is built as a platform for solving [Problem 1](https://oeis.org/A248380/a248380.pdf) in John Conway's _Five $1,000 Problems_:
 
@@ -13,6 +11,9 @@ previously named integers (with repetitions being allowed). The person who names
 (so ending the game) is the loser. The question is: If player 1 names ‘16’, and both 
 players play optimally thereafter, then who wins?
 
+---
+
+See also the [Vanilla JS version](https://github.com/kyle-west/sylver-coinage-vanilla) for my original proof-of-concept.
 
 <details>
 <summary>Technical details</summary>
